@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlipFix", "FlipFix.csproj", "{B1E734A7-3687-435C-AC9E-6FBD45F18CFA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FlipFlixSetup", "..\FlipFlixSetup\FlipFlixSetup.vdproj", "{C6B8DFE0-AC58-86AA-CD33-87A3109630BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1E734A7-3687-435C-AC9E-6FBD45F18CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E734A7-3687-435C-AC9E-6FBD45F18CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E734A7-3687-435C-AC9E-6FBD45F18CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E734A7-3687-435C-AC9E-6FBD45F18CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B8DFE0-AC58-86AA-CD33-87A3109630BF}.Debug|Any CPU.ActiveCfg = Debug
+		{C6B8DFE0-AC58-86AA-CD33-87A3109630BF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7572DBB0-5430-439A-A97A-1CE587D14E92}
+	EndGlobalSection
+EndGlobal
